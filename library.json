@@ -10,6 +10,19 @@
     "title": "Flores",
     "subtitle": "Flores estão no ar",
     "icon": "",
-    "images": [{"url":"https://anagiovanna.com.br/blog/wp-content/uploads/2020/12/desenhos-de-unicornio-para-pintar-e-colorir-22-750x925.jpg", "title": "Rosa"}]
+    "images": [
+      {"url":"https://i0.wp.com/techwek.com/wp-content/uploads/2021/01/pintar.jpg?resize=768%2C576&ssl=1", "title": "Rosa"},
+    {"url":"https://i2.wp.com/techwek.com/wp-content/uploads/2021/01/colorir-1.jpg?w=636&ssl=1", "title": "Rosa"},
+      {"url":"https://comofazeremcasa.net/wp-content/uploads/2020/06/desenhos-de-lagarta-para-colorir-1.jpg", "title": "Rosa"}
+    
+    ]
+  },
+  
+   {
+    "title": "Animais",
+    "subtitle": "Pinte como uma criança",
+    "icon": "",
+    "images": [{"url":"https://i0.wp.com/techwek.com/wp-content/uploads/2021/01/desenhos-para-colorir.gif?resize=600%2C777&ssl=1", "title": "Cavalo"}]
   }
+  
 ]

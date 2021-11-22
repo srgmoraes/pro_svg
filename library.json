@@ -20,9 +20,21 @@
   
    {
     "title": "Animais",
-    "subtitle": "Pinte como uma criança",
+    "subtitle": "Cuidado com estas feras",
     "icon": "",
     "images": [{"url":"https://i0.wp.com/techwek.com/wp-content/uploads/2021/01/desenhos-para-colorir.gif?resize=600%2C777&ssl=1", "title": "Cavalo"}]
+  } ,
+  
+   {
+    "title": "Herois",
+    "subtitle": "Venha salvar o mundo",
+    "icon": "",
+    "images": [
+      {"url":"https://blog.printloja.com.br/wp-content/uploads/2019/07/desenhos-para-colorir-mulher-maravilha-1-745x1024.jpg", "title": "Rosa"},
+    {"url":"https://blog.printloja.com.br/wp-content/uploads/2019/07/desenhos-para-colorir-homem-aranha-1-768x631.jpg", "title": "Rosa"},
+      {"url":"https://blog.printloja.com.br/wp-content/uploads/2019/07/desenhos-para-colorir-homem-de-ferro-1-768x1020.jpg", "title": "Rosa"}
+    
+    ]
   }
   
 ]

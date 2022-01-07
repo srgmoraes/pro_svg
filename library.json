@@ -3,7 +3,7 @@
     "title": "Infantil",
     "subtitle": "Pinte como uma criança",
     "icon": "",
-    "images": [{"url":"https://anagiovanna.com.br/blog/wp-content/uploads/2020/12/desenhos-de-unicornio-para-pintar-e-colorir-22-750x925.jpg", "title": "Cavalo"}]
+    "images": [{"url":"https://www.cipass.cuny.edu/wp-content/themes/jupiter/assets/icons/pe-line-icons/svg/e60a.svg", "title": "Cavalo"}]
   },
   
  {
@@ -11,9 +11,9 @@
     "subtitle": "Flores estão no ar",
     "icon": "",
     "images": [
-      {"url":"https://i0.wp.com/techwek.com/wp-content/uploads/2021/01/pintar.jpg?resize=768%2C576&ssl=1", "title": "Rosa"},
-    {"url":"https://i2.wp.com/techwek.com/wp-content/uploads/2021/01/colorir-1.jpg?w=636&ssl=1", "title": "Rosa"},
-      {"url":"https://comofazeremcasa.net/wp-content/uploads/2020/06/desenhos-de-lagarta-para-colorir-1.jpg", "title": "Rosa"}
+      {"url":"https://www.cipass.cuny.edu/wp-content/themes/jupiter/assets/icons/pe-line-icons/svg/e60b.svg", "title": "Rosa"},
+    {"url":"https://www.cipass.cuny.edu/wp-content/themes/jupiter/assets/icons/pe-line-icons/svg/e61e.svg", "title": "Rosa"},
+      {"url":"https://www.cipass.cuny.edu/wp-content/themes/jupiter/assets/icons/pe-line-icons/svg/e63e.svg", "title": "Rosa"}
     
     ]
   },
@@ -22,7 +22,7 @@
     "title": "Animais",
     "subtitle": "Cuidado com estas feras",
     "icon": "",
-    "images": [{"url":"https://i0.wp.com/techwek.com/wp-content/uploads/2021/01/desenhos-para-colorir.gif?resize=600%2C777&ssl=1", "title": "Cavalo"}]
+    "images": [{"url":"https://www.cipass.cuny.edu/wp-content/themes/jupiter/assets/icons/pe-line-icons/svg/e63f.svg", "title": "Cavalo"}]
   } ,
   
    {
@@ -30,9 +30,9 @@
     "subtitle": "Venha salvar o mundo",
     "icon": "",
     "images": [
-      {"url":"https://blog.printloja.com.br/wp-content/uploads/2019/07/desenhos-para-colorir-mulher-maravilha-1-745x1024.jpg", "title": "Rosa"},
-    {"url":"https://blog.printloja.com.br/wp-content/uploads/2019/07/desenhos-para-colorir-homem-aranha-1-768x631.jpg", "title": "Rosa"},
-      {"url":"https://blog.printloja.com.br/wp-content/uploads/2019/07/desenhos-para-colorir-homem-de-ferro-1-768x1020.jpg", "title": "Rosa"}
+      {"url":"https://www.cipass.cuny.edu/wp-content/themes/jupiter/assets/icons/pe-line-icons/svg/e65f.svg", "title": "Rosa"},
+    {"url":"https://www.cipass.cuny.edu/wp-content/themes/jupiter/assets/icons/pe-line-icons/svg/e603.svg", "title": "Rosa"},
+      {"url":"https://www.cipass.cuny.edu/wp-content/themes/jupiter/assets/icons/pe-line-icons/svg/e629.svg", "title": "Rosa"}
     
     ]
   }
